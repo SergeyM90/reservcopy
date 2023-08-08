@@ -23,5 +23,7 @@ rsync -avP --checksum --exclude=".*" ~/ /tmp/backup
 
 # Решение
 
-backup.sh
+[backup.sh](https://github.com/SergeyM90/reservcopy/blob/main/backup.sh)https://github.com/SergeyM90/reservcopy/blob/main/backup.sh
+
+
 
