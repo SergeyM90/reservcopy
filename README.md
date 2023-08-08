@@ -1,5 +1,5 @@
 # reservcopy
-Домашнее задание. Резервное копирование. Сергей Миронов-SYS-20.
+# Домашнее задание. Резервное копирование. Сергей Миронов-SYS-20.
 
 # Задание 1.
 
@@ -47,5 +47,3 @@ fi
 0 0 * * * /home/night/backup.sh
 
 ![image](https://github.com/SergeyM90/reservcopy/assets/84016375/aa309f2d-628c-4110-86b5-cc7acab25ab5)
-
-
