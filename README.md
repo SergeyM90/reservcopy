@@ -41,7 +41,6 @@ else
     echo "[$(date)] Ошибка при выполнении резервного копирования" >> /var/log/backup.log
 fi
 
-
 [night.txt](https://github.com/SergeyM90/reservcopy/blob/main/night.txt)
 
 0 0 * * * /home/night/backup.sh
